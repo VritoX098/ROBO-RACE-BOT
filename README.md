@@ -15,6 +15,11 @@ The project was designed from the ground up. All design files, firmware and docu
 I wanted to learn hardware design form scratch. This project forced me to understand every component in detail. 
 
 ---
+| Robo race bot img-1 | Robo race bot img-2 |
+| :---: | :---: |
+| ![image](https://cdn.hackclub.com/019fb208-3ccd-7033-a0cd-6a091024761e/1000041664.jpg) | ![image](https://cdn.hackclub.com/019fb208-8cf2-7591-ba32-fe78ee79f3d3/1000041663.jpg) |
+
+---
 
 ## Features 
 
