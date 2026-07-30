@@ -21,6 +21,11 @@ I wanted to learn hardware design form scratch. This project forced me to unders
 
 ---
 
+## Project Demos
+Head to:  [`Video/`](Video):
+
+---
+
 ## Features 
 
 - 4WD Drive System 
