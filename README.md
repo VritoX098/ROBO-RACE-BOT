@@ -46,12 +46,13 @@ Switch - Rs.50 - [Switch](https://www.daraz.com.np/products/small-switch-i128943
 
 Jumper Wires - Rs. 380 - [Jumper](https://www.daraz.com.np/products/40-pieces-male-to-female-dupont-jumper-wire-cable-20cm-two-point-five-four-millimeter-arduino-breadboard-electronics-connector-i129086146.html?spm=a2a0e.searchlist.list.1.4e166170IF8Foo)
 
+PCB - 9$ 
 
 Soldering Equipment - Rs.2000 - [Kit](https://www.daraz.com.np/products/soldering-iron-kit-15-in-1-60w-220v-adjustable-temperature-welding-tool-with-solder-tip-wire-desoldering-pump-tweezers-stripper-cutter-tool-bag-i107065878.html?spm=a2a0e.searchlist.list.7.57261b4bMBkb82)
 
 Multimeter - Rs.350 - [Multimeter](https://www.daraz.com.np/products/digital-multimeter-lcd-ac-dc-measuring-voltage-current-for-home-use-campus-component-voltage-ampere-ohm-tester-electronic-tester-yellow-i154380149.html?spm=a2a0e.searchlist.list.1.2b113bf5ZhGTgL)
 
-Total - Rs. 5,500 ( 40$ )
+Total - Rs. 5,500 ( 50$ )
 
 ---
 
@@ -72,7 +73,7 @@ Total - Rs. 5,500 ( 40$ )
 
 ## Build journals 
 
-Development notes and progress logs are kept in 
+Development notes and progress logs are kept in [`Journals/`](Journals):
 
 
 ## Future Improvements 
@@ -91,6 +92,14 @@ Development notes and progress logs are kept in
 - PlatformIO for amazing development environment 
 - KiCad for the free and powerful PCB design tools 
 - All the open-source hardware communities for their invaluable resources 
+
+---
+
+## Esstenial links 
+
+[Onshape](https://cad.onshape.com/documents/eafc86527aab621078fd5eab/w/5d8777175a4e24f0c6748078/e/ad99eee1d031578527ea4a44?renderMode=0&uiState=6a6b025050455ca4e7946234)
+
+[Cirkit Designer](https://app.cirkitdesigner.com/project/1adc6cdf-6aa5-4c88-b8ef-e48ef29de465)
 
 ---
 
